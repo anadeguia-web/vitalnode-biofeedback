@@ -1,0 +1,14 @@
+POSTURE & BIOFEEDBACK REPORT
+------------------------------
+Biofeedback Clinical Report
+
+Date: October 26, 2023
+
+This report summarizes biofeedback data collected during a brief session.
+
+Session Duration: 20 seconds
+Average Heart Rate (BPM): 74.2
+HRV Proxy: 0.0
+Bad Posture Time: 0.0%
+
+End of Report.
