@@ -81,7 +81,7 @@ if not camara.isOpened():
 # ==========================================
 # 3. CONFIGURACION DE GEMINI
 # ==========================================
-GEMINI_API_KEY = "AIzaSyA_z_anW_NOwx6sPw9NHudJs5k_g73cVpQ"
+GEMINI_API_KEY = "ADD_YOUR_KEY"
 genai.configure(api_key=GEMINI_API_KEY)
 modelo_gemini = genai.GenerativeModel('gemini-2.5-flash')  # Una sola instancia, aqui
 
